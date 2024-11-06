@@ -1,3 +1,9 @@
+#form{
+    background-color: greenyellow;
+}
+#titulo {
+    background-color: forestgreen;
+}
 #tabla {
     background-color: black;
 }
@@ -35,4 +41,7 @@
     text-decoration: underline;
     text-decoration-color: rgb(230, 14, 14);
     text-decoration-thickness: 2.5px;
+}
+#regist {
+    background-color: yellow;
 }
