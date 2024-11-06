@@ -1,0 +1,33 @@
+#tabla {
+    background-color: black;
+}
+#dias {
+    background-color: lawngreen;
+}
+#jueves {
+    width: 230px;
+}
+#trabajo {
+    background-color: crimson;
+}
+#volver {
+    background-color: crimson;
+}
+#curso {
+    background-color: crimson;
+}
+#estudio {
+    background-color: crimson;
+}
+#tiempo {
+    background-color: crimson;
+}
+#dormir {
+    background-color: crimson;
+}
+#CasillaBlanca {
+    background-color: khaki;
+}
+#ul {
+    list-style: none;
+}
