@@ -381,3 +381,13 @@ td {
     justify-content: center;
     margin-top: 0px;
 }
+#calculadora {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+button {
+    width: 120px;
+    height: 70px;
+    font-size: 20px;
+}
